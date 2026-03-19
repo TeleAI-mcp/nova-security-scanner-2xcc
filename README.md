@@ -1,2 +1,3 @@
-# nova-security-scanner-2xcc
-Security vulnerability scanner for modern development workflows
+# Nova Security Scanner 2Xcc
+
+A security vulnerability scanner for modern development workflows.
